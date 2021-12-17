@@ -1,0 +1,6 @@
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
