@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Modelos
 {
+    /// <summary>
+    /// Representa uma Conta Corrente do ByteBank
+    /// </summary>
     public class ContaCorrente
     {
         private static int TaxaOperacao;
@@ -38,6 +41,12 @@ namespace ByteBank.Modelos
             }
         }
 
+        /// <summary>
+        /// Cria uma Conta Corrente
+        /// </summary>
+        /// <param name="agencia">Preenche o campo <see cref="Agencia"/> da conta corrente</param>
+        /// <param name="numero">Preenche o campo <see cref="Numero"/> da conta corrente</param>
+        /// <exception cref="ArgumentException">Ocorre quando <paramref name="agencia"/> ou <paramref name="numero"/> é menor ou igual a 0</exception>
         public ContaCorrente(int agencia, int numero)
         {
             if (numero <= 0)

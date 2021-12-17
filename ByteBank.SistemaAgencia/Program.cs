@@ -12,7 +12,7 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            ContaCorrente contaCorrente = new ContaCorrente(1235, 123256);
+            ContaCorrente contaCorrente = new ContaCorrente(1212, 12213434);
             GerenteDeConta gerente = new GerenteDeConta("124.224.124-12");
 
             Console.ReadLine();
