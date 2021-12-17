@@ -15,7 +15,7 @@
             </summary>
             <param name="agencia">Preenche o campo <see cref="P:ByteBank.Modelos.ContaCorrente.Agencia"/> da conta corrente</param>
             <param name="numero">Preenche o campo <see cref="P:ByteBank.Modelos.ContaCorrente.Numero"/> da conta corrente</param>
-            <exception cref="T:System.ArgumentException"></exception>
+            <exception cref="T:System.ArgumentException">Ocorre quando <paramref name="agencia"/> ou <paramref name="numero"/> é menor ou igual a 0</exception>
         </member>
     </members>
 </doc>

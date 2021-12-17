@@ -2,7 +2,10 @@ C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bi
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\Humanizer.dll
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\Humanizer.xml
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.SuggestedBindingRedirects.cache
 C:\Users\NOTE168\source\repos\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
