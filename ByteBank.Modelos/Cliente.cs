@@ -11,5 +11,13 @@ namespace ByteBank.Modelos
         public string Nome { get; set; }
         public string CPF { get; set; }
         public string Profissao { get; set; }
+
+        public override bool Equals(object obj)
+        {
+            // se der erro de cast cliente = null
+            Cliente cliente = obj as Cliente;
+
+            return base.Equals(obj);
+        }
     }
 }

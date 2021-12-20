@@ -106,6 +106,12 @@ namespace ByteBank.Modelos
 
             contaDestino.Depositar(valor);
         }
-    }
 
+        public override string ToString()
+        {
+            return base.ToString();
+        }
+
+
+    }
 }

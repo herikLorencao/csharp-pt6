@@ -10,7 +10,12 @@
       "ProjectGuid": "c2175f0d-7024-465e-947f-c0fb51887a9c",
       "DisplayName": "ByteBank.Modelos",
       "ColorIndex": 1
+    },
+    "9a6d8591-c14f-46cb-8b2f-a122bf3fef87": {
+      "ProjectGuid": "9a6d8591-c14f-46cb-8b2f-a122bf3fef87",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
